@@ -1,5 +1,7 @@
 # React Bindings for Bulma
 
+[![CI Status](https://codeship.com/projects/74ebbb70-b05c-0133-b346-5e399acd7f73/status?branch=master)](https://codeship.com/projects/132649)
+
 **This is currently in active development. Feel free to help out. :smile:**
 
 ## Usage
@@ -31,9 +33,10 @@ const myComponent = ({ disabled }) => (
 ### Meta
 
 - [x] Create basic react setup with babel compilation
+- [x] Add CI
 - [ ] Create demo files to mirror upstream docs
 - [ ] Add compilation of demo files into website
-- [ ] Add CI with CD to S3 (e.g. react-bulma.joshdavidmiller.com)
+- [ ] Add CD to S3 (e.g. react-bulma.joshdavidmiller.com)
 - [ ] Publish initial version to npm
 
 ### Components
