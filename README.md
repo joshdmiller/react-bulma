@@ -30,7 +30,7 @@ const myComponent = ({ disabled }) => (
 
 ### Meta
 
-- [ ] Create basic react setup with babel compilation
+- [x] Create basic react setup with babel compilation
 - [ ] Create demo files to mirror upstream docs
 - [ ] Add compilation of demo files into website
 - [ ] Add CI with CD to S3 (e.g. react-bulma.joshdavidmiller.com)
@@ -49,7 +49,7 @@ const myComponent = ({ disabled }) => (
 - [ ] Tag
 - [ ] Message
 - [ ] Notification
-- [ ] Icon
+- [x] Icon
 - [ ] Navbar
 - [ ] Grid (Columns, Column)
 - [ ] Tabs (Tabs, Tab)
